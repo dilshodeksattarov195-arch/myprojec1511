@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfonnect",
+        "uuid": 5051273,
+        "checksum": "y73lzr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
